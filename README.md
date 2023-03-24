@@ -1,11 +1,4 @@
-# AluraBooks
-
-> Status do projeto: Concluido
-
-
-
-  
- <h1 align="center"> Alura Books </h1>
+   <h1 align="center"> Alura Books </h1>
 
 > Status do projeto: finalizado
 
